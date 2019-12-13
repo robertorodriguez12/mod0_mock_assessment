@@ -1,0 +1,93 @@
+Making_a_Sandwich
+
+1 Prepare_to_make_sandwich
+
+  1.1 Decide_on_type_of_meat
+    1.1.1 Choose_turkey_as_meat
+
+  1.2 Decide_type_of_bread
+    1.2.1 Choose_white_bread
+
+  1.3 Decide_on_toppings
+    1.3.1 Choose_mayonnaise
+    1.3.2 Choose_Muenster_cheese
+
+2 Gather_ingredients
+
+  2.1 Grab_white_bread
+    2.1.1 Walk_to_cabinet
+    2.1.2 Open_cabinet
+    2.1.3 Locate_white_bread
+    2.1.4 Grab_white_bread
+    2.1.5 Close_cabinet
+    2.1.6 Walk_to_counter
+    2.1.7 Place_bread_on_counter
+
+  2.2 Grab_turkey
+    2.2.1 Walk_to_fridge
+    2.2.2 Open_fridge
+    2.2.3 Locate_turkey
+    2.2.4 Grab_turkey
+    2.2.5 Place_turkey_on_counter
+
+  2.3 Grab_toppings
+    2.3.1 Grab_muenster_cheese
+      2.3.1.1 Locate_muenster_cheese
+      2.3.1.2 Grab_muenster_cheese
+    2.3.2 Grab_mayonnaise
+      2.3.2.1 Locate_mayonnaise
+      2.3.2.2 Grab_mayonnaise
+    2.3.3 Close_fridge
+    2.3.4 Walk_to_counter
+    2.3.5 Place_toppings_on_counter
+
+  2.4 Grab_plate
+    2.4.1 Walk_to_cabinet
+    2.4.2 Open_cabinet
+    2.4.3 Grab_plate
+    2.4.4 Close_cabinet
+    2.4.5 Walk_to_counter
+    2.4.6 Place_plate_on_counter
+
+  2.5 Grab_butter_knife
+    2.5.1 Walk_to_drawer
+    2.5.2 Open_drawer
+    2.5.3 Locate_butter_knife
+    2.5.4 Grab_butter_knife
+    2.5.6 Close_drawer
+    2.5.7 Walk_to_counter
+    2.5.8 Place_butter_knife_on_counter
+
+3 Make_sandwich
+
+  3.1 Get_bread_from_bag
+    3.1.1 Open_bread_bag
+    3.1.2 Grab_two_slices_of_bread
+    3.1.3 Place_bread_on_plate
+    3.1.4 Close_bread_bag
+
+  3.2 Spread_mayonnaise_on_bread
+    3.2.1 Open_mayonnaise
+    3.2.2 Grab_butter_knife
+    3.2.3 Put_butter_knife_in_mayonnaise_jar
+    3.2.4 Scoop_mayonnaise_on_knife
+    3.2.5 Pull_out_knife
+    3.2.6 Spread_mayonnaise_on_bread
+    3.2.7 Put_butter_knife_down
+    3.2.8 Close_mayonnaise_jar
+
+  3.3 Add_turkey
+    3.3.1 Open_turkey_packet
+    3.3.2 Grab_two_slices_of_turkey
+    3.3.3 Place_turkey_slices_on_one_bread
+    3.3.4 Close_turkey_packet
+
+  3.4 Add_muenster_cheese
+    3.4.1 Open_cheese_packet
+    3.4.2 Grab_cheese_slice
+    3.4.3 Place_cheese_slice_on_turkey
+    3.4.4 Close_cheese_packet
+
+  3.5 Place_bread_slice_on_top
+    3.5.1 Grab_bread_slice_with_nothing_on_it
+    3.5.2 Place_bread_slice_on_top
