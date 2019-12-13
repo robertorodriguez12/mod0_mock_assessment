@@ -1,0 +1,34 @@
+Instance: StingRay 208 CR Cuddy Cabin
+
+Attributes
+
+Color: "white"
+seating_capacity: 9
+is_a_motor_boat: True
+Fuel_capacity: 34
+Stickers: ["StingRay", "ILOVENY", "WWP"]
+current_passenger: 4
+amount_of_fuel: 25
+
+calculate_percent_full_fuel: (25 / 34) * 100 = 73
+number_of_empty_seats: 9 - 4 = 5
+add_sticker: Add "Grunt Style" sticker ["StingRay", "ILOVENY", "WWP", "Grunt Style"]
+change_seating_capacity: 9 - 4 = 8
+
+
+Instance: StingRay 250LR Sport Boat
+
+Attributes
+
+Color: Black
+seating_capacity: 10
+is_a_motor_boat: True
+Fuel_capacity: 68
+Stickers: ["StingRay", "Lightning Bolt", "ILOVENY"]
+current_passenger: 7
+amount_of_fuel: 49
+
+calculate_percent_full_fuel: (49 / 68) * 100 = 72
+number_of_empty_seats: 10 - 7 = 3
+add_sticker: Add "USARMY" sticker ["StingRay", "Lightning Bolt", "ILOVENY", "USARMY"]
+change_seating_capacity: 10 - 1 = 9
