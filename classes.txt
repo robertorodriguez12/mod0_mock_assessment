@@ -1,0 +1,17 @@
+Class: Boat
+
+Attributes
+
+Color: String
+seating_capacity: Integer
+is_a_motor_boat: Boolean
+Fuel_capacity: Integer
+color: String
+Stickers: Array
+current_passenger: Integer
+amount_of_fuel: Integer
+
+calculate_percent_full_fuel: amount_of_fuel / Fuel_capacity
+number_of_empty_seats: seating_capacity - current_passenger
+add_sticker: add sticker as a string to end of sticker Array
+change_seating_capacity: remove a seat (seating_capacity - 1)
