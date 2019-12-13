@@ -6,7 +6,6 @@ Color: String
 seating_capacity: Integer
 is_a_motor_boat: Boolean
 Fuel_capacity: Integer
-color: String
 Stickers: Array
 current_passenger: Integer
 amount_of_fuel: Integer
